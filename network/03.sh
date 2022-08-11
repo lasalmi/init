@@ -1,0 +1,1 @@
+system_profiler SPAirPortDataType | grep MAC
