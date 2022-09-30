@@ -1,0 +1,2 @@
+#DAEMON
+sudo systemctl list-unit-files --type=service --state=enabled --all

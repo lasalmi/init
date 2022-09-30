@@ -1,0 +1,2 @@
+After adding new user you can connect with ssh by simply typing ssh <username>@localhost to terminal and logging with password.
+Graphical user interface can be accessed by logging out with the current user and logging in with the new user and password.
