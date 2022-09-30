@@ -1,1 +1,1 @@
-system_profiler SPAirPortDataType | grep MAC
+system_profiler SPAirPortDataType | grep MAC | xargs

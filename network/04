@@ -1,1 +1,1 @@
-route -n get default | grep gateway
+route -n get default | grep gateway | xargs | cut -d ' ' -f 2
