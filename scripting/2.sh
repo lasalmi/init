@@ -9,6 +9,7 @@ if id "$username" &>/dev/null; then
 	break
 else
 	echo "User not found, please give a proper username:"
+fi
 done
 sudo killall -u $username &>/dev/null
 echo "Killed the bastard, mwahahaa"
